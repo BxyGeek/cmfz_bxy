@@ -1,0 +1,36 @@
+{
+  "msg": "查询成功",
+  "total": 3,
+  "code": 200,
+  "records": 8,
+  "page": 1,
+  "rows": [
+    {
+      "id": "123123",
+      "cover": "2019-07-26_174009.png",
+      "title": "专辑1",
+      "status": 1,
+      "createDate": "2019-08-15 04:00:15",
+      "description": "2323",
+      "lastUpdateDate": "2019-08-15 04:00:15"
+    },
+    {
+      "id": "213213",
+      "cover": "1.jpg",
+      "title": "专辑2",
+      "status": 0,
+      "createDate": "2019-08-14 02:17:18",
+      "description": "adsadas",
+      "lastUpdateDate": "2019-08-15 03:37:37"
+    },
+    {
+      "id": "3123112",
+      "cover": "1.jpg",
+      "title": "专辑3",
+      "status": 1,
+      "createDate": "2019-08-14 02:17:18",
+      "description": "adsadas",
+      "lastUpdateDate": "2019-08-15 02:17:25"
+    }
+  ]
+}
