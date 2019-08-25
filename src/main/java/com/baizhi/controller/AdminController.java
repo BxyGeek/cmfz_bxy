@@ -16,6 +16,10 @@ public class AdminController extends BaseApiService {
     private AdminService adminService;
 
 
+    //这个是同事的提交
+
+
+
     @RequestMapping("login")
     public Map<String, Object> login(String adminName, String password, String enCode, HttpSession session) {
         String code = (String) session.getAttribute("code");
